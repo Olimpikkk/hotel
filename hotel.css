@@ -64,7 +64,6 @@ z-index: 55;
 .header__container {
 display: flex;
 margin-top: 20px;
-/* min-height: 106px; */
 align-items: center;
 }
 .header_menu{
